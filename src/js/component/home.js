@@ -15,7 +15,7 @@ export class Home extends React.Component {
 					<div className="row text-center">
 						<Card phrase="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque." />
 
-						<Card phrase="hLorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo magni sapiente, tempore debitis beatae culpa natus architecto." />
+						<Card phrase="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo magni sapiente, tempore debitis beatae culpa natus architecto." />
 
 						<Card phrase="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque." />
 
